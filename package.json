@@ -1,0 +1,23 @@
+{
+  "name": "stripe-connect",
+  "version": "1.0.0",
+  "description": "Stripe Connect Integration and Methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toseefrehan92/stripe-connect.git"
+  },
+  "author": "Tauseef Rehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toseefrehan92/stripe-connect/issues"
+  },
+  "homepage": "https://github.com/toseefrehan92/stripe-connect#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^12.4.0"
+  }
+}
